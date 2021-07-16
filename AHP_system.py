@@ -1,3 +1,4 @@
+#making the code better. Just trying out fork and cloning into my local stuff
 import numpy as np
 import matplotlib.pyplot as plt
 import random
